@@ -1,0 +1,17 @@
+
+{
+  "name": "telegram-mini-app",
+  "version": "1.0.0",
+  "description": "Telegram Mini App with Video Content",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["telegram", "mini-app", "video"],
+  "author": "",
+  "license": "ISC"
+}
